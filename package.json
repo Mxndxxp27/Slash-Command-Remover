@@ -1,0 +1,44 @@
+{
+  "name": "discord-clear-slash-commands",
+  "version": "1.0.0",
+  "description": "Secure utility script to delete all global slash commands of a Discord bot using discord.js v14",
+  "main": "clearCommands.js",
+  "scripts": {
+    "start": "node clearCommands.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "slash-commands",
+    "discord.js",
+    "dotenv",
+    "utility",
+    "developer-tools"
+  ],
+  "author": {
+    "name": "Mandeep",
+    "url": "https://mandeep.ly"
+  },
+  "contributors": [
+    {
+      "name": "Team Steroid",
+      "url": "https://discord.gg/g4ZTneX9x8"
+    }
+  ],
+  "homepage": "https://dsc.gg/fynex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mxndxxp27/discord-clear-slash-commands"
+  },
+  "bugs": {
+    "url": "https://dsc.gg/fynex"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
