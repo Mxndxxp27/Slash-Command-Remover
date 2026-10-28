@@ -16,22 +16,16 @@
     "developer-tools"
   ],
   "author": {
-    "name": "Mandeep",
-    "url": "https://mandeep.ly"
+    "name": "mandeep.lyq_",
+    "url": "https://discord.com/users/479721497489965058"
   },
-  "contributors": [
-    {
-      "name": "Team Steroid",
-      "url": "https://discord.gg/g4ZTneX9x8"
-    }
-  ],
-  "homepage": "https://dsc.gg/fynex",
+  "Server": "https://dsc.gg/coredevs",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mxndxxp27/discord-clear-slash-commands"
   },
   "bugs": {
-    "url": "https://dsc.gg/fynex"
+    "url": "https://dsc.gg/coredevs"
   },
   "license": "MIT",
   "engines": {
