@@ -134,7 +134,7 @@ npm run clear
 ## 📞 Support
 
 - **Discord**: [mandeep.lyq_](https://discord.com/users/479721497489965058)
-- **Support Server**: [https://dsc.gg/fynex](https://dsc.gg/fynex)
+- **Support Server**: [https://dsc.gg/fynex](https://dsc.gg/coredevs)
 ## 📝 License
 
 © 2025 Mandeep. All rights reserved.
