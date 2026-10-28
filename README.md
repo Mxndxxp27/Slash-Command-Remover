@@ -133,10 +133,8 @@ npm run clear
 
 ## 📞 Support
 
-- **Discord**: [mandeep.ly](https://discord.com/users/mandeep.ly)
+- **Discord**: [mandeep.lyq_](https://discord.com/users/479721497489965058)
 - **Support Server**: [https://dsc.gg/fynex](https://dsc.gg/fynex)
-- **Team Steroid**: [Join for free code and paid codes](https://discord.gg/g4ZTneX9x8)
-
 ## 📝 License
 
 © 2025 Mandeep. All rights reserved.
